@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Jaime Martínez! 👋<br>🎓 Student at IES Camas Antonio Brisquet<br>📚 Currently studying DAM (Multi-platform applications development)<br>🎶 Founder of my own brass band<br>🚀 Aspiring developer with dreams of creating new worlds through code<br><br>
+Hi there, I'm Jaime Martínez! 👋<br>🧑🏻‍💻 Currently developing a Minecraft mod with my gf ([Mythic Approaches 1.21](https://github.com/Mythic-Approaches))<br>🎶 Founder of my own brass band<br>🚀 Aspiring developer with dreams of creating new worlds through code<br><br>
 
 ## 🎯 Goals and inspirations:
 For me, music and videogames have always been like little worlds where I could retreat to. Growing up, video games weren't just games: they were a place to belong, a place to explore, a place where I could feel safe. Games like Undertale were like hidden treasures that showed me how one person's creativity could bring others so much joy and connection. That's what I hope to do one day: build worlds full of stories, sounds and experiences that feel like a warm escape, created with care and love.<br>
